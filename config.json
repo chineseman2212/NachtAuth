@@ -1,23 +1,23 @@
 {
     "networth": {
-        "apiKey": ""
+        "apiKey": "d608cc7d-23ba-4db5-b266-dd5d0f4e449d"
     },
 
     "URLS": {
-        "apiURL": ""
+        "apiURL": "https://discordverify-ep5y.onrender.com"
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1247325402494406707/ZouWobOPuMyM4uobW1G8X_pT61SVSTg7zP9p5ZUvHBTp89pg9kA8YPuHWDzNvWxOjGRX"
     },
 
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTIzNTQzMzk5OTQ0NzYyNTgwOQ.GPgKtv.XfDjzHj3aBs8SEPsW5u2hZTDWTffEsVOqO2U2c"
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+        "client_id": "6998a2b1-fcaf-48aa-b3e6-bc947233dae9",
+        "client_secret": "7fc50d7b-8e6d-4d2d-986f-70619ca215d7",
+        "redirect_uri": "https://discordverify-ep5y.onrender.com"
     }
 }
